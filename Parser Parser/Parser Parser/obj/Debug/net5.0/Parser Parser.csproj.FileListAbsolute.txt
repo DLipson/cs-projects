@@ -1,0 +1,16 @@
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.exe
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.deps.json
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.runtimeconfig.json
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.runtimeconfig.dev.json
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.dll
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\ref\Parser Parser.dll
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\bin\Debug\net5.0\Parser Parser.pdb
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.csproj.AssemblyReference.cache
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.AssemblyInfoInputs.cache
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.AssemblyInfo.cs
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.csproj.CoreCompileInputs.cache
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.dll
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\ref\Parser Parser.dll
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.pdb
+C:\YSDL\repos\Random C# projects\Parser Parser\Parser Parser\obj\Debug\net5.0\Parser Parser.genruntimeconfig.cache
